@@ -7,3 +7,4 @@ share/
 
 # ignore files
 pyvenv.cfg
+dockerfile.python
