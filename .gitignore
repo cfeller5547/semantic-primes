@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+
+# ignore directories
+Lib/
+Scripts/
+share/
+
+# ignore files
+pyvenv.cfg
