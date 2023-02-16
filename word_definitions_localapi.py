@@ -1,6 +1,6 @@
 import json
 
-file_path = "C:/Users/Client/Desktop/Semantic Primes AI/semantic-primes/data/DA.json"
+file_path = "./data/DA.json"
 
 # Open the file
 with open(file_path, "r") as file:
