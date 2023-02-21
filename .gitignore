@@ -9,3 +9,6 @@ share/
 pyvenv.cfg
 dockerfile.python
 docker-requirements.txt
+app.js
+complex-words.txt
+word-relationships.txt

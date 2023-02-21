@@ -1,0 +1,211 @@
+{
+    "I": [
+        "substantives"
+    ],
+    "YOU": [
+        "substantives"
+    ],
+    "SOMEONE": [
+        "substantives"
+    ],
+    "SOMETHING~THING": [
+        "substantives"
+    ],
+    "PEOPLE": [
+        "substantives"
+    ],
+    "BODY": [
+        "substantives"
+    ],
+    "KINDS": [
+        "relational substantives"
+    ],
+    "PARTS": [
+        "relational substantives"
+    ],
+    "THIS": [
+        "determiners"
+    ],
+    "THE SAME": [
+        "determiners"
+    ],
+    "OTHER~ELSE": [
+        "determiners"
+    ],
+    "ONE": [
+        "quantifiers"
+    ],
+    "TWO": [
+        "quantifiers"
+    ],
+    "SOME": [
+        "quantifiers"
+    ],
+    "ALL": [
+        "quantifiers"
+    ],
+    "MUCH~MANY": [
+        "quantifiers"
+    ],
+    "LITTLE~FEW": [
+        "quantifiers"
+    ],
+    "GOOD": [
+        "evaluators"
+    ],
+    "BAD": [
+        "evaluators"
+    ],
+    "BIG": [
+        "descriptors"
+    ],
+    "SMALL": [
+        "descriptors"
+    ],
+    "KNOW": [
+        "mental predicates"
+    ],
+    "THINK": [
+        "mental predicates"
+    ],
+    "WANT": [
+        "mental predicates"
+    ],
+    "DON'T WANT": [
+        "mental predicates"
+    ],
+    "FEEL": [
+        "mental predicates"
+    ],
+    "SEE": [
+        "mental predicates"
+    ],
+    "HEAR": [
+        "mental predicates"
+    ],
+    "SAY": [
+        "speech"
+    ],
+    "WORDS": [
+        "speech"
+    ],
+    "TRUE": [
+        "speech"
+    ],
+    "DO": [
+        "actions",
+        "event",
+        "movement"
+    ],
+    "HAPPEN": [
+        "actions",
+        "event",
+        "movement"
+    ],
+    "MOVE": [
+        "actions",
+        "event",
+        "movement"
+    ],
+    "BE (SOMEWHERE)": [
+        "location",
+        "existence",
+        "specification"
+    ],
+    "THERE IS": [
+        "location",
+        "existence",
+        "specification"
+    ],
+    "BE (SOMEONE/SOMETHING)": [
+        "location",
+        "existence",
+        "specification"
+    ],
+    "(IS) MINE": [
+        "possession"
+    ],
+    "LIVE": [
+        "life an death"
+    ],
+    "DIE": [
+        "life an death"
+    ],
+    "WHEN~TIME": [
+        "time"
+    ],
+    "NOW": [
+        "time"
+    ],
+    "BEFORE": [
+        "time"
+    ],
+    "AFTER": [
+        "time"
+    ],
+    "A LONG TIME": [
+        "time"
+    ],
+    "A SHORT TIME": [
+        "time"
+    ],
+    "FOR SOME TIME": [
+        "time"
+    ],
+    "MOMENT": [
+        "time"
+    ],
+    "WHERE~PLACE": [
+        "place"
+    ],
+    "HERE": [
+        "place"
+    ],
+    "ABOVE": [
+        "place"
+    ],
+    "BELOW": [
+        "place"
+    ],
+    "FAR": [
+        "place"
+    ],
+    "NEAR": [
+        "place"
+    ],
+    "SIDE": [
+        "place"
+    ],
+    "INSIDE": [
+        "place"
+    ],
+    "TOUCH": [
+        "place"
+    ],
+    "NOT": [
+        "logical concepts"
+    ],
+    "MAYBE": [
+        "logical concepts"
+    ],
+    "CAN": [
+        "logical concepts"
+    ],
+    "BECAUSE": [
+        "logical concepts"
+    ],
+    "IF": [
+        "logical concepts"
+    ],
+    "VERY": [
+        "augmentor",
+        "intensifier"
+    ],
+    "MORE": [
+        "augmentor",
+        "intensifier"
+    ],
+    "LIKE": [
+        "similarity"
+    ]
+}
